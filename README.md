@@ -104,7 +104,9 @@ car would send its current position every X minutes,which would be used then to 
 For testing purposes of the APIs below, you can use the following:
 
 driver ids: 1 - 100
+
 rider ids : 1 - 150
+
 trip ids: 1 - 7
 
 
@@ -465,7 +467,7 @@ Response:
 				"name": "Gates Carson",
 				"driver_code": "T24D1002"
 				},
-		"Car":{
+			"Car":{
 				"id": 2,
 				"plate_number": "15899"
 				}
