@@ -99,6 +99,14 @@ Payment is based on distance covered. The distance covered is not as such straig
 car would send its current position every X minutes,which would be used then to calculate the total area that was exactly covered.
 
 
+### Sample Data
+
+For testing purposes of the APIs below, you can use the following:
+
+driver ids: 1 - 100
+rider ids : 1 - 150
+trip ids: 1 - 7
+
 
 
 ### Drivers APIs
